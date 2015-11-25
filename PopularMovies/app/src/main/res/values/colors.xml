@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- material design scale-->
+    <color name="colorPrimary">#00796B</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#37474F</color>
+    <color name="colorAccent">#00BFA5</color>
+
+    <!-- gray scale -->
+    <color name="gray_soft">#e4e5e5</color>
+    <color name="gray_light">#cdcfd0</color>
+    <color name="gray">#939393</color>
+    <color name="gray_dark">#5F5F5F</color>
+    <color name="black">#323232</color>
+
+    <!-- basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="green">#27D34D</color>
+    <color name="blue">#2A91BD</color>
+    <color name="orange">#FF9D2F</color>
+    <color name="red">#FF432F</color>
+    <color name="blue_link">#1963D1</color>
+
+</resources>

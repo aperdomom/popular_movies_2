@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- Titles -->
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="title_share_trailer">Share Movie Trailer</string>
+    <string name="title_subject_share_trailer">Look this trailer!</string>
+    <string name="title_selet_trailer">Select a Trailer</string>
+
+
+    <!--Labels -->
+    <string name="label_title_movie">Title:</string>
+    <string name="label_overview_movie">Synopsis:</string>
+    <string name="label_vote_average_movie">Ranting:</string>
+    <string name="label_release_date_movie">Release date:</string>
+    <string name="label_most_popular">Most popular</string>
+    <string name="label_highest_rated">Highest rated</string>
+    <string name="label_trailers">Trailers:</string>
+    <string name="label_reviews">Reviews:</string>
+    <string name="label_read_more">read more</string>
+
+    <!-- Actions -->
+    <string name="action_sort">Sort</string>
+    <string name="action_most_popular">Sort by most popular</string>
+    <string name="action_highest_rated">Sort by highest rated</string>
+    <string name="action_favorite">Sort by favorite</string>
+    <string name="action_share_trailer">Share trailer</string>
+
+    <!-- SnackBar messages -->
+    <string name="msg_favorite_movie">Movie mark as a favorite</string>
+    <string name="msg_share_trailer">If you want to watch a movie trailer, click te link</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- font sizes -->
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="text_size_normal">20sp</dimen>
+    <dimen name="text_size_large">25sp</dimen>
+</resources>
